@@ -1,0 +1,2 @@
+# static
+Untuk Matkul PBO
